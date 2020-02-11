@@ -1,0 +1,10 @@
+The ACTPol TT, EE and TE power spectra from different patches are combined to estimated the CMB-only bandpowers, marginalized over astrophysical foregrounds. 
+
+The spectra are binned, and are given with the following columns:
+-the mean multipole moment l
+-the power spectrum in units of \mu K^2 C_l
+-the error for the binned value in units of \mu K^2 C_l
+
+These spectra are released for plotting purposes and do not include the full covariance. For statistical comparison to a theory Cl, the theory Cls should be convolved with bandpower window functions.  Any likelihood analysis should be performed using the corresponding CMB-only likelihood provided.
+
+The unmarginalised TT, EE and TE spectra and window functions are given in the fullspectra tarball. 
